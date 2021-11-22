@@ -7,8 +7,9 @@
   <a href = "mailto:my.cookie.yoon@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/-my.cookie.yoon@gmail.com-EA4335?logo=Gmail&logoColor=white&style=for-the-badge"></a>
 </p>
 
-
-![What I have been](https://github-readme-stats.vercel.app/api?username=cookie-yoon&show_icons=true&theme=vue)
+<p align = "center">
+  ![Cookie Yoon's Github Stats](https://github-readme-stats.vercel.app/api?username=cookie-yoon&show_icons=true&theme=vue)
+</p>
 
 <!--
 **cookie-yoon/cookie-yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
