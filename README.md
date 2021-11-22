@@ -1,8 +1,7 @@
-### Let me introduce myself . . .
-
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=300&section=header&text=Cookie%20Yoon&fontSize=90&fontColor=e3dbeb&fontAlign=50)
 
-
+![header](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFD43B&style=for-the-badge)
+![header](https://img.shields.io/badge/-C-grey?logo=C&logoColor=A8B9CC&style=for-the-badge)
 <!--
 **cookie-yoon/cookie-yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
