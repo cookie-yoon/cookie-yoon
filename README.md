@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=300&section=header&text=Cookie%20Yoon&fontSize=90&fontColor=e3dbeb&fontAlign=50)
 
-![header](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFD43B&style=for-the-badge)
-![header](https://img.shields.io/badge/-C-grey?logo=C&logoColor=A8B9CC&style=for-the-badge)
-
 <p align="center">
   <a href = "python"><img src = "https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFD43B&style=for-the-badge"/></a>
+  <a href = "C"><img src = "https://img.shields.io/badge/-C-grey?logo=C&logoColor=A8B9CC&style=for-the-badge"/></a>
+  <br>
   <a href="my.cookie.yoon@gmail.com"><img src="https://img.shields.io/badge/-my.cookie.yoon@gmail.com-EA4335?logo=Gmail&logoColor=white&style=for-the-badge&link=mailto:my.cookie.yoon@gmail.com"/></a>
 </p>
 
