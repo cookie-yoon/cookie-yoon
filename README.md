@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=300&section=header&text=Cookie%20Yoon&fontSize=90&fontColor=e3dbeb?height=200)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=200&section=header&text=Cookie%20Yoon&fontSize=90&fontColor=e3dbeb)
 
 <p align="center">
   I use <br><br>
