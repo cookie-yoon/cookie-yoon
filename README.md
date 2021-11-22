@@ -1,4 +1,4 @@
-### Hi there 👋
+### Let me introduce myself . . .
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=E3DBEB&height=300&section=header&text=Cookie%20Yoon&fontSize=90)
 
