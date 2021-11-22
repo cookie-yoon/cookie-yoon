@@ -4,7 +4,7 @@
   <a href = "python"><img src = "https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFD43B&style=for-the-badge"></a>
   <a href = "C"><img src = "https://img.shields.io/badge/-C-grey?logo=C&logoColor=A8B9CC&style=for-the-badge"></a>
   <br><br>
-  <a href="my.cookie.yoon@gmail.com"><img src="https://img.shields.io/badge/-my.cookie.yoon@gmail.com-EA4335?logo=Gmail&logoColor=white&style=for-the-badge&link=mailto:my.cookie.yoon@gmail.com"></a>
+  <a href = "mailto:my.cookie.yoon@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/-my.cookie.yoon@gmail.com-EA4335?logo=Gmail&logoColor=white&style=for-the-badge"></a>
 </p>
 
 <!--
@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="mailto:이메일 주소" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
