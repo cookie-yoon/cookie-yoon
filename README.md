@@ -10,7 +10,7 @@
 </p>
 <br><br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=cookie-yoon&show_icons=true&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=cookie-yoon&show_icons=true&theme=vue">
 </div>
 
 <!--
