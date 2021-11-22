@@ -1,9 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=300&section=header&text=Cookie%20Yoon&fontSize=90&fontColor=e3dbeb)
 
 <p align="center">
+  I use
   <a href = "python"><img src = "https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFD43B&style=for-the-badge"></a>
   <a href = "C"><img src = "https://img.shields.io/badge/-C-grey?logo=C&logoColor=A8B9CC&style=for-the-badge"></a>
   <br><br>
+  contact me
   <a href = "mailto:my.cookie.yoon@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/-my.cookie.yoon@gmail.com-EA4335?logo=Gmail&logoColor=white&style=for-the-badge"></a>
 </p>
 <br><br>
