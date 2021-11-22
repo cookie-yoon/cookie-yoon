@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=200&section=header&text=Cookie%20Yoon&fontSize=70&fontColor=e3dbeb)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=150&section=header&text=Cookie%20Yoon&fontSize=70&fontColor=e3dbeb)
 
 <p align="center">
  <i>I use </i><br><br>
