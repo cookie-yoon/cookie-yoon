@@ -3,7 +3,8 @@
 ![header](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFD43B&style=for-the-badge)
 ![header](https://img.shields.io/badge/-C-grey?logo=C&logoColor=A8B9CC&style=for-the-badge)
 
-![header](https://img.shields.io/badge/-my.cookie.yoon@gmail.com-EA4335?logo=Gmail&logoColor=white&style=for-the-badge&fontColor=lightgrey&link=my.cookie.yoon@gmail.com)
+<p align="center"><a href="my.cookie.yoon@gmail.com"><img src="https://img.shields.io/badge/-my.cookie.yoon@gmail.com-EA4335?logo=Gmail&logoColor=white&style=for-the-badge&link=mailto:my.cookie.yoon@gmail.com"/></a></p>
+
 <!--
 **cookie-yoon/cookie-yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
