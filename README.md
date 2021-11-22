@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=300&section=header&text=Cookie%20Yoon&fontSize=90&fontColor=e3dbeb&fontAlign=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=300&section=header&text=Cookie%20Yoon&fontSize=90&fontColor=e3dbeb)
 
 <p align="center">
   <a href = "python"><img src = "https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFD43B&style=for-the-badge"></a>
