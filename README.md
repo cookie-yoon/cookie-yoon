@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=default&height=300&section=header&text=Cookie%20Yoon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=random&height=300&section=header&text=Cookie%20Yoon&fontSize=90)
 
 
 <!--
