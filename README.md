@@ -3,11 +3,11 @@
 <p align="center">
  <i>a piece of cake? → </i>
  <a href = "https://cookie-yoon.github.io" target = "_blank">🍰</a><br><br><br>
- <i>enable to use   </i>
+ <i>able to use . . . </i>
   <a href = "https://www.python.org/"><img src = "https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFD43B&style=for-the-badge"></a>
   <a href = "https://en.wikipedia.org/wiki/C_(programming_language)"><img src = "https://img.shields.io/badge/-C-grey?logo=C&logoColor=A8B9CC&style=for-the-badge"></a>
   <br><br><br>
- <i>ask me in   </i>
+ <i>ask me in . . .</i>
   <a href = "mailto:my.cookie.yoon@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/-my.cookie.yoon@gmail.com-EA4335?logo=Gmail&logoColor=white&style=for-the-badge"></a>
 </p>
 <br><br>
