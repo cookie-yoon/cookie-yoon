@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=150&section=header&text=Cookie%20Yoon&fontSize=70&fontColor=e3dbeb)
 
-want a piece of cake? → 
-<a href = "https://cookie-yoon.github.io" target = "_blank">🍰</a>
-
 <p align="center">
+ 
+ <i>want a piece of cake? → </i>
+ <a href = "https://cookie-yoon.github.io" target = "_blank">🍰</a>
+ 
  <i>I use </i><br><br>
   <a href = "python"><img src = "https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFD43B&style=for-the-badge"></a>
   <a href = "C"><img src = "https://img.shields.io/badge/-C-grey?logo=C&logoColor=A8B9CC&style=for-the-badge"></a>
