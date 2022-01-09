@@ -1,6 +1,6 @@
 <p align="center">
- <i>a piece of cake?</i><br>
- <a href = "https://cookie-yoon.github.io" title = "yum yum" target = "_blank">🍰</a><br/><br/><br/>
+ <br><i>a piece of cake?</i><br>
+ <a href = "https://cookie-yoon.github.io" title = "yum yum" target = "_blank">🍰</a><br/><br/>
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=150&section=header&text=Cookie%20Yoon&fontSize=70&fontColor=e3dbeb)
