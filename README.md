@@ -2,7 +2,7 @@
 
 <p align="center">
  <i>a piece of cake?</i><br>
- <a href = "https://cookie-yoon.github.io" target = "_blank">🍰</a><br><br><br>
+ <a href = "https://cookie-yoon.github.io" title = "yum yum" target = "_blank">🍰</a><br><br><br>
  <i>able to use</i><br>
   <a href = "https://www.python.org/"><img src = "https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFD43B&style=for-the-badge"></a>
   <a href = "https://en.wikipedia.org/wiki/C_(programming_language)"><img src = "https://img.shields.io/badge/-C-grey?logo=C&logoColor=A8B9CC&style=for-the-badge"></a>
