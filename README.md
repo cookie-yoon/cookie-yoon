@@ -17,9 +17,10 @@
    <!-- top langs -->
    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cookie-yoon&layout=compact&title_color=e3dbeb&text_color=b3b3b3&bg_color=4a4a4a&hide_border=1&border_radius=20"/>
 
-   <!-- contacts -->
+   <!-- contacts
    <i>ask me in</i><br/>
    <a href = "mailto:my.cookie.yoon@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/-my.cookie.yoon@gmail.com-EA4335?logo=Gmail&logoColor=white&style=for-the-badge"></a>
+   -->
   </div>
  </body>
 </html>
