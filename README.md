@@ -15,7 +15,7 @@
    <a href = "https://en.wikipedia.org/wiki/C_(programming_language)"><img src = "https://img.shields.io/badge/-C-grey?logo=C&logoColor=A8B9CC&style=for-the-badge"></a><br/><br/><br/>
    
    <!-- top langs -->
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cookie-yoon&layout=compact&bg_color=4a4a4a&border_radius=5"/>
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cookie-yoon&layout=compact&bg_color=4a4a4a&border_radius=20"/>
 
    <!-- contacts -->
    <i>ask me in</i><br/>
