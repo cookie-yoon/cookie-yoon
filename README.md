@@ -5,6 +5,7 @@
    body{
           text-align: center;
    }
+  </style>
  </head>
  <body> 
   <img src = "https://capsule-render.vercel.app/api?type=transparent&color=000000&height=150&section=header&text=Cookie%20Yoon&fontSize=70&fontColor=e3dbeb"/>
