@@ -3,9 +3,7 @@
  <head>
   <meta charset = "utf-8">
   <style>
-   main{
-    margin: auto;
-   }
+   body{margin: auto;}
   </style>
  </head>
  <body> 
