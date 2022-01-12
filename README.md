@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
  <head>
+  <meta charset = "utf-8">
   <style>
-   body{
-          text-align: center;
-   }
+   body{text-align: center;}
   </style>
  </head>
  <body> 
@@ -22,7 +21,7 @@
   <i>ask me in</i><br/>
   <a href = "mailto:my.cookie.yoon@gmail.com" target = "_blank"><img src = "https://img.shields.io/badge/-my.cookie.yoon@gmail.com-EA4335?logo=Gmail&logoColor=white&style=for-the-badge"></a>
  </body>
- </html>
+</html>
 <!--
 **cookie-yoon/cookie-yoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
